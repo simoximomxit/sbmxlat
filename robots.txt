@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://simoximomxit.github.io/sbmxlat//sitemap.xml
+Sitemap: https://simoximomxit.github.io/sitemap.xml
